@@ -52,8 +52,9 @@ body {
 }
 
 #nav-list li a:hover {
-	background-color: #f7f7f7;
-	color: #ffffff;
+	background-color: #f7f7f7;	
+	font-size: 1.5em;
+	font-weight: bold;
 }
 
 .return_top {
